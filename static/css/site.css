@@ -1,0 +1,12 @@
+body{
+    padding-top: 70px;
+    padding-bottom: 60px;
+    background-color: gainsboro;
+
+}
+h1 , th {color: maroon;
+}
+
+footer{
+    height: 50px;
+}
